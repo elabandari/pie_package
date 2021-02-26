@@ -1,5 +1,5 @@
 [tool.poetry]
-name = ":"
+name = "pie_package"
 version = "0.1.0"
 description = "Package for displaying pictures of pie"
 authors = ["Ela Bandari <elabandari@gmail.com>"]
